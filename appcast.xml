@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>VideoPlayer</title>
+        <title>Reel</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sun, 07 Jun 2026 08:55:01 +0900</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Mon, 08 Jun 2026 01:14:17 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yamayu-dev/Reel-releases/releases/download/v1.0.0/Reel-1.0.0.dmg" length="37845853" type="application/octet-stream" sparkle:edSignature="lzow5GrGbRT+msObiDOduVCjETGku8/aojPUPVEdz+u7Dc4nGCgWeQcfsktTpPyXcvjqlTO7SJKw3LZwZ8pwDQ=="/>
+            <enclosure url="https://github.com/yamayu-dev/Reel-releases/releases/download/v1.0.1/Reel-1.0.1.dmg" length="36008839" type="application/octet-stream" sparkle:edSignature="3MIBuVuPFfUIaXS/ltriWYdzVECfMnqr21S5sGplDUka4XXm9TjaZAqaXNqJRrVszp6wqmu5rSKoS+Y47spIDA=="/>
         </item>
     </channel>
 </rss>
